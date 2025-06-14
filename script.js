@@ -41,7 +41,7 @@ noButton.addEventListener("click", function() {
     if (clickCount === 1) mainImage.src = "images/DSC02491.JPG"; // 震惊
     if (clickCount === 2) mainImage.src = "images/DSC02406.JPG";   // 思考
     if (clickCount === 3) mainImage.src = "images/DSC02235.JPG";   // 生气
-    if (clickCount === 4) mainImage.src = "images/crying.png";  // 哭
+    if (clickCount === 4) mainImage.src = "images/f55860a5a484fd8b9ec251869c7d471.jpg";  // 哭
     if (clickCount === 5) mainImage.src = "images/crying.png";  // 哭
     if (clickCount >= 6) mainImage.src = "images/crying.png";  // 之后一直是哭
 
