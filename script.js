@@ -43,7 +43,7 @@ noButton.addEventListener("click", function() {
     if (clickCount === 3) mainImage.src = "images/DSC02235.JPG";   // 生气
     if (clickCount === 4) mainImage.src = "images/f55860a5a484fd8b9ec251869c7d471.jpg";  // 哭
     if (clickCount === 5) mainImage.src = "images/23b3fecc8a5e63f31a0148ebf76f63c.jpg";  // 哭
-    if (clickCount >= 6) mainImage.src = "images/crying.png";  // 之后一直是哭
+    if (clickCount >= 6) mainImage.src = "images/21de03e3414fe649c9c1a3f2c1712df.jpg";  // 之后一直是哭
 
 });
 
