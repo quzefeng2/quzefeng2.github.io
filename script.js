@@ -38,12 +38,12 @@ noButton.addEventListener("click", function() {
     }
 
     // 图片变化（前 5 次变化）
-    if (clickCount === 1) mainImage.src = "images/DSC02491.JPG"; // 震惊
-    if (clickCount === 2) mainImage.src = "images/DSC02406.JPG";   // 思考
-    if (clickCount === 3) mainImage.src = "images/DSC02235.JPG";   // 生气
-    if (clickCount === 4) mainImage.src = "images/f55860a5a484fd8b9ec251869c7d471.jpg";  // 哭
-    if (clickCount === 5) mainImage.src = "images/23b3fecc8a5e63f31a0148ebf76f63c.jpg";  // 哭
-    if (clickCount >= 6) mainImage.src = "images/21de03e3414fe649c9c1a3f2c1712df.jpg";  // 之后一直是哭
+    if (clickCount === 1) mainImage.src = "images/mi1.png"; // 震惊
+    if (clickCount === 2) mainImage.src = "images/mi2.png";   // 思考
+    if (clickCount === 3) mainImage.src = "images/mi3.png";   // 生气
+    if (clickCount === 4) mainImage.src = "images/mi4.png";  // 哭
+    if (clickCount === 5) mainImage.src = "images/mi5.png";  // 哭
+    if (clickCount >= 6) mainImage.src = "images/mi6.png";  // 之后一直是哭
 
 });
 
