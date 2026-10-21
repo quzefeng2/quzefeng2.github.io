@@ -51,7 +51,7 @@ noButton.addEventListener("click", function() {
 yesButton.addEventListener("click", function() {
     document.body.innerHTML = `
         <div class="yes-screen">
-            <h1 class="yes-text">!!!开心!! ( >᎑<)♡︎ᐝ</h1>
+            <h1 class="yes-text">前路很难，但我们不再是一个人面对</h1>
             <img src="images/hong10.png" alt="拥抱" class="yes-image">
         </div>
     `;
